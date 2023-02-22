@@ -2,9 +2,9 @@
     "users": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "name": "Admin",
+        "email": "gtatterton0@ehow.com",
+        "password": "1234"
       }
     ]
   }
